@@ -1,0 +1,7 @@
+numpy
+Pillow
+pyobjc-framework-AVFoundation
+pyobjc-framework-CoreMedia
+pyobjc-framework-Quartz
+pyobjc-framework-Vision
+pyobjc-framework-Cocoa

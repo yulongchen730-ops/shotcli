@@ -1,0 +1,48 @@
+# ===== 密钥（绝对禁止提交）=====
+.env
+.env.supabase
+*.key
+*.pem
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ===== 个人数据与素材（不属于工具本身）=====
+data/
+frames/
+视频/
+口播/
+抖音封面/
+配图/
+预览/
+incoming/
+参考资料/
+
+# ===== 个人产物 =====
+*.html
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.m4v
+logs_*.txt
+发到手机.command
+
+# ===== 发布文案（个人运营内容）=====
+发布文案*.md
+抖音发布文案*.md
+拍摄要点.md
+产物命名对照表.md
+
+# ===== 本地配置 =====
+tools/shotcli.json
+.DS_Store
+
+# ===== 依赖版权 PDF，不提交 =====
+tools/build_kss_manual.py
