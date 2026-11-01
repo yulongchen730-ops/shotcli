@@ -19,6 +19,24 @@
 
 ---
 
+## 效果预览
+
+> 以下均为工具真实生成的产物（纯数据图，不含个人画面）。
+
+### 关键指标总览 · 每球 13 项指标对标文献参考区间
+
+![关键指标总览](assets/key-metrics-overview.png)
+
+### 多球曲线对比 · 手腕高度 / 膝角 / 肘角 / 小臂仰角
+
+![多球曲线对比](assets/multi-shot-curves.png)
+
+### 逐球诊断矩阵 · 7 球 × 8 指标，按文献区间标色
+
+![逐球诊断矩阵](assets/per-shot-diagnosis.png)
+
+---
+
 ## 环境要求
 
 - **仅 macOS**（依赖 Vision / AVFoundation，Windows / Linux 无法运行）

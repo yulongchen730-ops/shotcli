@@ -46,3 +46,7 @@ tools/shotcli.json
 
 # ===== 依赖版权 PDF，不提交 =====
 tools/build_kss_manual.py
+
+# ===== README 演示图例外 =====
+!assets/
+!assets/*.png
